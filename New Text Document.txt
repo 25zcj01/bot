@@ -1,0 +1,5 @@
+music
+https://discordapp.com/api/oauth2/authorize?client_id=700582750926798888&permissions=8&scope=bot
+
+1st b01
+https://discordapp.com/api/oauth2/authorize?client_id=699742285306265600&permissions=8&scope=bot

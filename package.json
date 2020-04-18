@@ -1,0 +1,33 @@
+{
+  "name": "Totally Least Favorite Bot",
+  "version": "0.0.1",
+  "description": "Zharas bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barsik008/PossumBot.git"
+  },
+  "author": "barsik",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "@keyv/mongo": "^1.1.0",
+    "@keyv/mysql": "^1.1.4",
+    "@keyv/postgres": "^1.0.16",
+    "@keyv/redis": "^2.1.1",
+    "@keyv/sqlite": "^2.0.2",
+    "discord.js": "^12.1.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "keyv": "^4.0.0",
+    "superagent": "^5.2.2",
+    "ytdl-core": "^2.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Barsik008/PossumBot/issues"
+  },
+  "homepage": "https://github.com/Barsik008/PossumBot#readme"
+}
